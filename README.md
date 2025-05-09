@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image] (/header.jpeg)
+![image](header.jpeg)
 <!--
 **norwayjazz15/norwayjazz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
